@@ -1,3 +1,0 @@
-
-Hi this is pay.txt function inside  the mobile branch
->>>>>>> mobile
